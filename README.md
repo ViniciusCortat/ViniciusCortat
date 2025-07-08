@@ -2,9 +2,9 @@
 
 ### Game Developer → Full-Stack Web Developer → Machine Learning Enthusiast
 
-🎮 **Game Dev Background**: Built games in Unity during college.
-💻 **Professional Experience**: Full-stack web development with Ruby on Rails.
-🧠 **Currently Learning**: Machine Learning & Data Science (Python, TensorFlow, Pandas, etc.).
+- 🎮 **Game Dev Background**: Built games in Unity during college.
+- 💻 **Professional Experience**: Full-stack web development with Ruby on Rails.
+- 🧠 **Currently Learning**: Machine Learning & Data Science (Python, TensorFlow, Pandas, etc.).
 
 ## 🛠 **Tech Stack**
 
